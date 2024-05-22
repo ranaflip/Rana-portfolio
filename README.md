@@ -10,9 +10,9 @@ This is a personal portfolio project showcasing my work, skills, and experience.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/portfolio.git
+    git clone https://github.com/your-ranaflip/portfolio.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd portfolio
+    cd rana-portfolio
     ```
